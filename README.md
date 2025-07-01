@@ -1,15 +1,17 @@
-# squid_game
+- **Title**: Squid Game
 
-A new Flutter project.
+A custom Flutter UI inspired by Netflix’s Squid Game series. It features bold typography, animated geometric shapes (circle, triangle, square), and a stylish layout.
 
-## Getting Started
+## Screenshoot
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2025-07-01 at 17 28 53_2537dd2a](https://github.com/user-attachments/assets/c4395e1d-71a4-42fe-9552-61a08e80fb18)
+![WhatsApp Image 2025-07-01 at 17 28 54_66ece3e2](https://github.com/user-attachments/assets/7293c0e6-fddb-4c05-9d09-c66de1b64f22)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+
+Check video on instagram https://www.instagram.com/fatema.dev/
+
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
