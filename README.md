@@ -1,6 +1,6 @@
 - **Title**: Squid Game
 
-A custom Flutter UI inspired by Netflix’s Squid Game series. It features bold typography, animated geometric shapes (circle, triangle, square), and a stylish layout.
+A custom UI inspired by Netflix’s Squid Game series. It features bold typography, animated geometric shapes (circle, triangle, square), and a stylish layout.
 
 ## Screenshoot
 
